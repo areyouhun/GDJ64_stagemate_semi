@@ -37,7 +37,7 @@
   <tr>
     <td>
       <p align="center">
-        <img width="40%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/700d39de-b042-4c84-a857-e992b218e700" />
+        <img width="40%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/34f4a6ba-d2bb-4c68-b7dc-f370e9470ef1" />
       </p>
       <h4 align="center">메인 페이지</h4>
     </td>
@@ -53,8 +53,8 @@
   <tr>
     <td>
       <p align="center">
-        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/ee4b7435-58cb-412c-b4ec-f95e82e4e7d9" />
-        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/efedbb63-d0b6-4436-a82d-856ea83fe04f" />
+        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/0f3fd678-db0f-46bd-b2c5-fd6a13c68fb6" />
+        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/9b7999c8-1f3a-47b3-b2ee-e0167ae351cd" />
       </p>
       <h4 align="center">행사 목록</h4>
     </td>
@@ -63,7 +63,7 @@
     <td>
       <p align="center">
         <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/280307db-cba7-4392-b439-5383fb989bf5" />
-        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/59f90171-82d1-4ff8-8987-3c777c00c188" />
+        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/2c0fe19c-6725-467e-8e79-1b92d01f16df" />
       </p>
       <h4 align="center">행사 예매</h4>
     </td>
@@ -81,7 +81,7 @@
     <td>
       <p align="center">
         <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/1e71b299-d681-4dbf-958d-b375a721ea93" />
-        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/d1c179b9-9372-4fb6-87c3-c8e28193b4bb" />
+        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/5ec51fd1-4a8e-49cf-bd6f-68185c571b3a" />
       </p>
       <h4 align="center">구매 내역</h4>
     </td>
@@ -99,7 +99,7 @@
     <td>
       <p align="center">
         <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/8c0ffea9-5638-422d-ad8e-e930ad6a1d8a" />
-        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/eb0de708-d910-4275-a6b5-44b1f92ecd09" />
+        <img width="20%" src="https://github.com/areyouhun/GDJ64_stagemate_semi/assets/97642395/4750e083-5a2c-48e5-87da-4bf83eee869d" />
       </p>
       <h4 align="center">마이 페이지</h4>
     </td>
